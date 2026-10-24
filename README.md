@@ -15,7 +15,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Job Hunt Agents](https://github.com/RahulSankhla312/job-hunt-agents)** | A local AI team that finds jobs on 170+ company boards, filters and scores them, tailors fact-checked resumes and fills applications, with human approval before anything is sent. 640+ tests, CI. | Python · FastAPI · Playwright · Claude API |
+| **[Hireloop](https://github.com/RahulSankhla312/hireloop)** | A local AI team that finds jobs on 170+ company boards, filters and scores them, tailors fact-checked resumes and fills applications, with human approval before anything is sent. 640+ tests, CI. | Python · FastAPI · Playwright · Claude API |
 | **[Real-Time Chat App](https://github.com/RahulSankhla312/Chat_App)** | Full-stack social app with 1-1 chat, group forums and secure auth; real-time messaging over WebSockets. | React · Node.js · Socket.IO · MongoDB |
 <!-- Add each new project here once it is public, with a demo link. -->
 
