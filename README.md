@@ -15,6 +15,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[ContextSmith](https://github.com/RahulSankhla312/contextsmith)** [![PyPI](https://img.shields.io/pypi/v/contextsmith.svg)](https://pypi.org/project/contextsmith/) | Open-source context engine for AI coding agents (Claude Code, Cursor, Codex) over MCP: code graph + hybrid search + local embeddings + git history, packed into a token budget. On 114 held-out SWE-bench Django issues it put the fix's file inside a 4k-token context 92% of the time vs 29% for search + whole files. | Python · tree-sitter · SQLite · sqlite-vec · ONNX · MCP |
 | **[Hireloop](https://github.com/RahulSankhla312/hireloop)** | A local AI team that finds jobs on 170+ company boards, filters and scores them, tailors fact-checked resumes and fills applications, with human approval before anything is sent. 640+ tests, CI. | Python · FastAPI · Playwright · Claude API |
 | **[Real-Time Chat App](https://github.com/RahulSankhla312/Chat_App)** | Full-stack social app with 1-1 chat, group forums and secure auth; real-time messaging over WebSockets. | React · Node.js · Socket.IO · MongoDB |
 <!-- Add each new project here once it is public, with a demo link. -->
